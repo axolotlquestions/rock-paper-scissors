@@ -1,3 +1,13 @@
 body {
-  background-color: lightsteelblue;
+  background-color: #505160;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #598234;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #aebd38
 }
